@@ -24,14 +24,13 @@ I'm a computer science student with a passion for coding and a keen interest in 
 
 # Projects
 
-### [Project 1: Study Scheduler](https://github.com/yourusername/study-scheduler)
-A web application that helps students organize and track their study schedules. Built with React and Node.js.
+### [Project 1: Locker Reservation System](https://github.com/dexterrr1133/school-locker-reservation-system)
+This project is a Locker Reservation System developed in Java, with SQL used for backend data management. It provides a streamlined solution for managing locker reservations within a school environment, offering functionalities for students to check locker availability, reserve lockers, and manage their reservations efficiently.
 
-### [Project 2: Personal Portfolio](https://github.com/yourusername/personal-portfolio)
+### [Project 2: Personal Portfolio](https://github.com/dexterrr1133/personal-portfolio)
 A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
 
-### [Project 3: Data Analysis with Python](https://github.com/yourusername/data-analysis-python)
-A collection of data analysis projects using Python, Pandas, and Matplotlib.
+
 
 # Get in Touch
 
