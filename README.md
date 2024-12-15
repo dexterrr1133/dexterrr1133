@@ -34,7 +34,7 @@ A personal portfolio website to showcase my projects and skills. Built with HTML
 # Get in Touch
 
 - ![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) : [linusfigueroa.tech@gmail.com](mailto:linusfigueroa.tech@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [linkedin.com/in/linus-figueroa](https://linkedin.com/in/linus-figueroa-666b74318)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [linkedin.com/in/linus-figueroa](www.linkedin.com/in/linus-figueroa-666b74318)
 
 
 ------------
