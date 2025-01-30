@@ -29,7 +29,8 @@ This project is a Locker Reservation System developed in Java, with SQL used for
 ### [Project 2: Personal Portfolio](https://github.com/dexterrr1133/WEBSITE-PORTFOLIO.git)
 A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
 
-
+# Roadmap Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/67946ac032284498bcce2150?variant=dark)](https://roadmap.sh)
 
 # Get in Touch
 
